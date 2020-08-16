@@ -1,0 +1,27 @@
+# Vendor (e.g. Composer)
+/vendor
+
+# Node Package Manager
+node_modules
+
+# Vagrant
+.vagrant
+
+#IDE
+.idea/
+*.idea
+.kdev4/
+*.kdev4
+*.code-workspace
+.vscode
+# :::::::::::::::::::::: cut ::::::::::::::::::::::
+
+*.log
+	
+# Vim generated files #
+######################
+*.un~
+	
+# SASS #
+##########
+.sass-cache
